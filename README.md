@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a1sarao
 - 👀 I’m interested in things
 - 🌱 I’m currently learning everthing
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on nothing public
 - 📫 How to reach me - wrong number
 
 <!---
